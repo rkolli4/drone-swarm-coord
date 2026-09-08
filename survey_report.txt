@@ -1,0 +1,7 @@
+=== Post-Disaster Surveillance Report ===
+Grid size            : 15 x 15
+Drones deployed       : 4
+Overall coverage      : 46.7%
+Infrastructure mapped : 8/12 POIs (66.7%)
+Damage zones surveyed : 6/8 (75.0%)
+Mission duration       : 300 timesteps
